@@ -5,27 +5,31 @@ Implementation of Extended substitution cipher
 
 
 ### Installation
+
 ```
 $ pip install excs
 ```
 
 
 ### Usage
+
 For encryption:
+
 ```
->> from excs import ExtendedSubCipher
+>> from exsc import ExtendedSubCipher
 >> plaintext = "This is a test message."
 >> obj = ExtendedSubCipher("secret.323")
->> ciphertext = obj.encrypt(text)
+>> ciphertext = obj.encrypt(plaintext)
 >> print(ciphertext)
 ```
 
 For decryption:
+
 ```
->> from excs import ExtendedSubCipher
->> ciphertext = "=I37P7-0(3TDfvLTgk8C^"
+>> from exsc import ExtendedSubCipher
+>> ciphertext = "lH@9w0vArR~8L{%:0^=vc5c"
 >> obj = ExtendedSubCipher("secret.323")
->> plaintext = obj.decrypt(text)
+>> plaintext = obj.decrypt(ciphertext)
 >> print(plaintext)
 ```
 
