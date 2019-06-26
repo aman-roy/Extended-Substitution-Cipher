@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+exsc/ExtendedSubCipher.py
+exsc/__init__.py
+exsc.egg-info/PKG-INFO
+exsc.egg-info/SOURCES.txt
+exsc.egg-info/dependency_links.txt
+exsc.egg-info/not-zip-safe
+exsc.egg-info/top_level.txt
