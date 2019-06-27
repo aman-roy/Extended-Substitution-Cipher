@@ -1,6 +1,6 @@
 # Extended Substitution Cipher
 
-![extended substitution cipher logo](excslogo.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![extended substitution cipher logo](excslogo.png)
 
 Implementation of Extended substitution cipher. For more information read this - http://amanroy.me/extended-substitution-cipher
 
