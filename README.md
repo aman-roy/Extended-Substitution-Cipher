@@ -1,7 +1,8 @@
 # Extended Substitution Cipher
 
+<p align="center">
 ![extended substitution cipher logo](excslogo.png)
-
+</p>
 Implementation of Extended substitution cipher. For more information read this - http://amanroy.me/extended-substitution-cipher
 
 ### Installation
