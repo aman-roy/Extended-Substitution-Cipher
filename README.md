@@ -1,8 +1,9 @@
 # Extended Substitution Cipher
 
-<p align="center">
+{:refdef: style="text-align: center;"}
 ![extended substitution cipher logo](excslogo.png)
-</p>
+{: refdef}
+
 Implementation of Extended substitution cipher. For more information read this - http://amanroy.me/extended-substitution-cipher
 
 ### Installation
