@@ -9,22 +9,22 @@ $ pip install exsc
 ### Usage
 
 For encryption:
-`
+```
 >> from exsc import ExtendedSubCipher  
 >> plaintext = "This is a test message."  
 >> obj = ExtendedSubCipher("secret.323")  
 >> ciphertext = obj.encrypt(plaintext)  
 >> print(ciphertext)
-`
+```
 
 For decryption:
-`
+```
 >> from exsc import ExtendedSubCipher  
 >> ciphertext = "lH@9w0vArR\~8L{%:0^=vc5c"
 >> obj = ExtendedSubCipher("secret.323")  
 >> plaintext = obj.decrypt(ciphertext)  
 >> print(plaintext)
-`
+```
 
 ### Contributing
 
