@@ -2,7 +2,6 @@
 
 ![extended substitution cipher logo](excslogo.png)
 
-Implementation of Extended substitution cipher. For more information read this - http://amanroy.me/extended-substitution-cipher
 
 ### Installation
 `
