@@ -1,5 +1,7 @@
 # Extended Substitution Cipher
 
+![pip version](https://img.shields.io/pypi/v/exsc) ![license](https://img.shields.io/pypi/l/exsc) [![Downloads](https://pepy.tech/badge/exsc)](https://pepy.tech/project/exsc)  
+
 ![extended substitution cipher logo](excslogo.png)
 
 
